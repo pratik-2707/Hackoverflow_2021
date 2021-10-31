@@ -7,8 +7,10 @@ TEAM MEMBERS : Pratik , Ayush
 
 [Pre - requisites] 
 
-STEP 1 ::   first install xampp and start mysql and apache in it 
+STEP 1 ::   first install xampp and start mysql and apache in it (if unable to start it , type windows + R , and then type services.msc n it and after that stop mysql in it ) 
 type localhost/phpadmin in google make database named "parking" and table name "users"  
+
+
 // pics available for help
 
 in table users you have to make 5 columns or you can see pics uploaded in directory
@@ -34,4 +36,4 @@ STEP 3 ::  after this type "localhost/parking/" in google
 
 Step 4 :: sign up for parking and then click on login  
 
-Step 4 :: congrats u got a parking slot
+Step 4 :: congrats u got a parking slot 
