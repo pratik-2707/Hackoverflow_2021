@@ -31,8 +31,10 @@ in table users you have to make 5 columns or you can see pics uploaded in direct
 
 
 
-STEP 2 ::   IN htdocs folder you have o make a parking folder and there all the uploade files should be present
+STEP 2 ::   IN htdocs folder you have to make a parking folder and there all the uploaded files should be present
 C:\xampp\htdocs\parking
+// dowload the parking folder and paste it in htdocs folder of xampp folder 
+
 
 STEP 3 ::  after this type "localhost/parking/" in google 
 
