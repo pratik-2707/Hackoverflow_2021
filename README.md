@@ -10,6 +10,8 @@ TEAM MEMBERS : Pratik , Ayush
 STEP 1 ::   first install xampp and start mysql and apache in it (if unable to start it , type windows + R , and then type services.msc n it and after that stop mysql in it ) 
 type localhost/phpadmin in google make database named "parking" and table name "users"  
 
+// http://localhost/phpmyadmin/  for making database and table
+
 
 // pics available for help
 
