@@ -38,4 +38,4 @@ STEP 3 ::  after this type "localhost/parking/" in google
 
 Step 4 :: sign up for parking and then click on login  
 
-Step 4 :: congrats u got a parking slot 
+Step 4 :: congrats you have  got a parking slot 
