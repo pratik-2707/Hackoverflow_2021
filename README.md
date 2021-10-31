@@ -13,7 +13,7 @@ type localhost/phpadmin in google make database named "parking" and table name "
 // http://localhost/phpmyadmin/  for making database and table
 
 
-// pics available for help
+// pics available for help in project pics folder
 
 in table users you have to make 5 columns or you can see pics uploaded in directory
 ========================================================================================================================================
