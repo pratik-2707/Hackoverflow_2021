@@ -28,7 +28,7 @@ in table users you have to make 5 columns or you can see pics uploaded in direct
 
 	5	parkslot	int(4)			No	None			Change Change	Drop Drop	
 ========================================================================================================================================
-
+// make sure that all the names of columns should be same as given in pic of table in phpadmin
 
 
 STEP 2 ::   IN htdocs folder you have to make a parking folder and there all the uploaded files should be present
